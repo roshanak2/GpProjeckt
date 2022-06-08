@@ -55,7 +55,8 @@ public class VektorRechnung {
 
 
 
-*/3
+*/
+
 
     public static double[] MultiplikationMiteinerZahl(double[] array1, double[] array2){
         // kreuzprodukt
